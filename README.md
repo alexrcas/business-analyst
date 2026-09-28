@@ -46,7 +46,7 @@ Antes de preguntarse *«¿cómo lo programamos?»*, debe preguntarse:
 
 Esta primera fase pretende, por tanto, empezar a abandonar una visión centrada en **la solución técnica** para adoptar una visión centrada en **el problema, el negocio y las personas**.
 
-#¢## *Business Analysis For Dummies* — Kupe Kupersmith et al.
+#### *Business Analysis For Dummies* — Kupe Kupersmith et al.
 
 Una introducción ligera al mundo del Business Analysis.
 
