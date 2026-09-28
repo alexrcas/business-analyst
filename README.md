@@ -8,18 +8,19 @@ Se plantea el siguiente conjunto de libros. No todos tienen el mismo propósito 
 
 El orden de lectura está diseñado para avanzar progresivamente desde una **introducción general al análisis de negocio**, pasando por el conocimiento de técnicas y requisitos, hasta llegar a las habilidades sociales necesarias para trabajar con personas y grupos.
 
-* *Software Requirements* — Wiegers & Beatty
-* *Mastering the Requirements Process* — Suzanne & James Robertson
-* *Writing Effective Use Cases* — Alistair Cockburn
-* *BABOK*
-* *Never Split the Difference* — Chris Voss
-* *The Mom Test* — Rob Fitzpatrick
-* *Facilitator's Guide to Participatory Decision-Making* — Sam Kaner
-* *The Skilled Facilitator* — Roger Schwarz
-* *Thinking in Systems* — Donella Meadows
-* *Don't Make Me Think* — Steve Krug
-* *Business Analysis For Dummies* — Kupe Kupersmith et al.
-* *Business Analysis Techniques* — James Cadle, Donald Yeates & Alex Tudor
+* Business Analysis For Dummies — Kupe Kupersmith et al.
+* Thinking in Systems — Donella Meadows
+* The Mom Test — Rob Fitzpatrick
+* Business Analysis Techniques — James Cadle, Donald Yeates & Alex Tudor
+* Mastering the Requirements Process — Suzanne & James Robertson
+* Software Requirements — Wiegers & Beatty
+* Writing Effective Use Cases — Alistair Cockburn
+* Never Split the Difference — Chris Voss
+* Facilitator's Guide to Participatory Decision-Making — Sam Kaner
+* Don't Make Me Think — Steve Krug
+* The Skilled Facilitator — Roger Schwarz
+* BABOK
+
 
 ---
 
